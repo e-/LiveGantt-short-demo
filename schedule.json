@@ -1,5 +1,977 @@
 {
-  "Schedule": [
+  "Machines": [
+    {
+      "id": 1,
+      "number": 1,
+      "name": "DA001",
+      "machineTypeId": 1
+    },
+    {
+      "id": 2,
+      "number": 2,
+      "name": "DA002",
+      "machineTypeId": 1
+    },
+    {
+      "id": 3,
+      "number": 3,
+      "name": "DA003",
+      "machineTypeId": 1
+    },
+    {
+      "id": 4,
+      "number": 4,
+      "name": "DA004",
+      "machineTypeId": 1
+    },
+    {
+      "id": 5,
+      "number": 5,
+      "name": "DA005",
+      "machineTypeId": 1
+    },
+    {
+      "id": 6,
+      "number": 6,
+      "name": "DA006",
+      "machineTypeId": 1
+    },
+    {
+      "id": 7,
+      "number": 7,
+      "name": "DA007",
+      "machineTypeId": 1
+    },
+    {
+      "id": 8,
+      "number": 8,
+      "name": "DA008",
+      "machineTypeId": 1
+    },
+    {
+      "id": 9,
+      "number": 9,
+      "name": "DA009",
+      "machineTypeId": 1
+    },
+    {
+      "id": 10,
+      "number": 10,
+      "name": "DA010",
+      "machineTypeId": 1
+    },
+    {
+      "id": 11,
+      "number": 11,
+      "name": "DA011",
+      "machineTypeId": 1
+    },
+    {
+      "id": 12,
+      "number": 12,
+      "name": "DA012",
+      "machineTypeId": 1
+    },
+    {
+      "id": 13,
+      "number": 13,
+      "name": "DA013",
+      "machineTypeId": 1
+    },
+    {
+      "id": 14,
+      "number": 14,
+      "name": "DA014",
+      "machineTypeId": 1
+    },
+    {
+      "id": 15,
+      "number": 15,
+      "name": "DA015",
+      "machineTypeId": 1
+    },
+    {
+      "id": 16,
+      "number": 16,
+      "name": "DA016",
+      "machineTypeId": 1
+    },
+    {
+      "id": 17,
+      "number": 17,
+      "name": "DA017",
+      "machineTypeId": 1
+    },
+    {
+      "id": 18,
+      "number": 18,
+      "name": "DA018",
+      "machineTypeId": 1
+    },
+    {
+      "id": 19,
+      "number": 19,
+      "name": "DA019",
+      "machineTypeId": 1
+    },
+    {
+      "id": 20,
+      "number": 20,
+      "name": "DA020",
+      "machineTypeId": 1
+    },
+    {
+      "id": 21,
+      "number": 1,
+      "name": "WB001",
+      "machineTypeId": 2
+    },
+    {
+      "id": 22,
+      "number": 2,
+      "name": "WB002",
+      "machineTypeId": 2
+    },
+    {
+      "id": 23,
+      "number": 3,
+      "name": "WB003",
+      "machineTypeId": 2
+    },
+    {
+      "id": 24,
+      "number": 4,
+      "name": "WB004",
+      "machineTypeId": 2
+    },
+    {
+      "id": 25,
+      "number": 5,
+      "name": "WB005",
+      "machineTypeId": 2
+    },
+    {
+      "id": 26,
+      "number": 6,
+      "name": "WB006",
+      "machineTypeId": 2
+    },
+    {
+      "id": 27,
+      "number": 7,
+      "name": "WB007",
+      "machineTypeId": 2
+    },
+    {
+      "id": 28,
+      "number": 8,
+      "name": "WB008",
+      "machineTypeId": 2
+    },
+    {
+      "id": 29,
+      "number": 9,
+      "name": "WB009",
+      "machineTypeId": 2
+    },
+    {
+      "id": 30,
+      "number": 10,
+      "name": "WB010",
+      "machineTypeId": 2
+    },
+    {
+      "id": 31,
+      "number": 11,
+      "name": "WB011",
+      "machineTypeId": 2
+    },
+    {
+      "id": 32,
+      "number": 12,
+      "name": "WB012",
+      "machineTypeId": 2
+    },
+    {
+      "id": 33,
+      "number": 13,
+      "name": "WB013",
+      "machineTypeId": 2
+    },
+    {
+      "id": 34,
+      "number": 14,
+      "name": "WB014",
+      "machineTypeId": 2
+    },
+    {
+      "id": 35,
+      "number": 15,
+      "name": "WB015",
+      "machineTypeId": 2
+    },
+    {
+      "id": 36,
+      "number": 16,
+      "name": "WB016",
+      "machineTypeId": 2
+    },
+    {
+      "id": 37,
+      "number": 17,
+      "name": "WB017",
+      "machineTypeId": 2
+    },
+    {
+      "id": 38,
+      "number": 18,
+      "name": "WB018",
+      "machineTypeId": 2
+    },
+    {
+      "id": 39,
+      "number": 19,
+      "name": "WB019",
+      "machineTypeId": 2
+    },
+    {
+      "id": 40,
+      "number": 20,
+      "name": "WB020",
+      "machineTypeId": 2
+    },
+    {
+      "id": 41,
+      "number": 21,
+      "name": "WB021",
+      "machineTypeId": 2
+    },
+    {
+      "id": 42,
+      "number": 22,
+      "name": "WB022",
+      "machineTypeId": 2
+    },
+    {
+      "id": 43,
+      "number": 23,
+      "name": "WB023",
+      "machineTypeId": 2
+    },
+    {
+      "id": 44,
+      "number": 24,
+      "name": "WB024",
+      "machineTypeId": 2
+    },
+    {
+      "id": 45,
+      "number": 25,
+      "name": "WB025",
+      "machineTypeId": 2
+    },
+    {
+      "id": 46,
+      "number": 26,
+      "name": "WB026",
+      "machineTypeId": 2
+    },
+    {
+      "id": 47,
+      "number": 27,
+      "name": "WB027",
+      "machineTypeId": 2
+    },
+    {
+      "id": 48,
+      "number": 28,
+      "name": "WB028",
+      "machineTypeId": 2
+    },
+    {
+      "id": 49,
+      "number": 29,
+      "name": "WB029",
+      "machineTypeId": 2
+    },
+    {
+      "id": 50,
+      "number": 30,
+      "name": "WB030",
+      "machineTypeId": 2
+    },
+    {
+      "id": 51,
+      "number": 31,
+      "name": "WB031",
+      "machineTypeId": 2
+    },
+    {
+      "id": 52,
+      "number": 32,
+      "name": "WB032",
+      "machineTypeId": 2
+    },
+    {
+      "id": 53,
+      "number": 33,
+      "name": "WB033",
+      "machineTypeId": 2
+    },
+    {
+      "id": 54,
+      "number": 34,
+      "name": "WB034",
+      "machineTypeId": 2
+    },
+    {
+      "id": 55,
+      "number": 35,
+      "name": "WB035",
+      "machineTypeId": 2
+    },
+    {
+      "id": 56,
+      "number": 36,
+      "name": "WB036",
+      "machineTypeId": 2
+    },
+    {
+      "id": 57,
+      "number": 37,
+      "name": "WB037",
+      "machineTypeId": 2
+    },
+    {
+      "id": 58,
+      "number": 38,
+      "name": "WB038",
+      "machineTypeId": 2
+    },
+    {
+      "id": 59,
+      "number": 39,
+      "name": "WB039",
+      "machineTypeId": 2
+    },
+    {
+      "id": 60,
+      "number": 40,
+      "name": "WB040",
+      "machineTypeId": 2
+    },
+    {
+      "id": 61,
+      "number": 41,
+      "name": "WB041",
+      "machineTypeId": 2
+    },
+    {
+      "id": 62,
+      "number": 42,
+      "name": "WB042",
+      "machineTypeId": 2
+    },
+    {
+      "id": 63,
+      "number": 43,
+      "name": "WB043",
+      "machineTypeId": 2
+    },
+    {
+      "id": 64,
+      "number": 44,
+      "name": "WB044",
+      "machineTypeId": 2
+    },
+    {
+      "id": 65,
+      "number": 45,
+      "name": "WB045",
+      "machineTypeId": 2
+    },
+    {
+      "id": 66,
+      "number": 46,
+      "name": "WB046",
+      "machineTypeId": 2
+    },
+    {
+      "id": 67,
+      "number": 47,
+      "name": "WB047",
+      "machineTypeId": 2
+    },
+    {
+      "id": 68,
+      "number": 48,
+      "name": "WB048",
+      "machineTypeId": 2
+    },
+    {
+      "id": 69,
+      "number": 49,
+      "name": "WB049",
+      "machineTypeId": 2
+    },
+    {
+      "id": 70,
+      "number": 50,
+      "name": "WB050",
+      "machineTypeId": 2
+    },
+    {
+      "id": 71,
+      "number": 51,
+      "name": "WB051",
+      "machineTypeId": 2
+    },
+    {
+      "id": 72,
+      "number": 52,
+      "name": "WB052",
+      "machineTypeId": 2
+    },
+    {
+      "id": 73,
+      "number": 53,
+      "name": "WB053",
+      "machineTypeId": 2
+    },
+    {
+      "id": 74,
+      "number": 54,
+      "name": "WB054",
+      "machineTypeId": 2
+    },
+    {
+      "id": 75,
+      "number": 55,
+      "name": "WB055",
+      "machineTypeId": 2
+    },
+    {
+      "id": 76,
+      "number": 56,
+      "name": "WB056",
+      "machineTypeId": 2
+    },
+    {
+      "id": 77,
+      "number": 57,
+      "name": "WB057",
+      "machineTypeId": 2
+    },
+    {
+      "id": 78,
+      "number": 58,
+      "name": "WB058",
+      "machineTypeId": 2
+    },
+    {
+      "id": 79,
+      "number": 59,
+      "name": "WB059",
+      "machineTypeId": 2
+    },
+    {
+      "id": 80,
+      "number": 60,
+      "name": "WB060",
+      "machineTypeId": 2
+    },
+    {
+      "id": 81,
+      "number": 61,
+      "name": "WB061",
+      "machineTypeId": 2
+    },
+    {
+      "id": 82,
+      "number": 62,
+      "name": "WB062",
+      "machineTypeId": 2
+    },
+    {
+      "id": 83,
+      "number": 63,
+      "name": "WB063",
+      "machineTypeId": 2
+    },
+    {
+      "id": 84,
+      "number": 64,
+      "name": "WB064",
+      "machineTypeId": 2
+    },
+    {
+      "id": 85,
+      "number": 65,
+      "name": "WB065",
+      "machineTypeId": 2
+    },
+    {
+      "id": 86,
+      "number": 66,
+      "name": "WB066",
+      "machineTypeId": 2
+    },
+    {
+      "id": 87,
+      "number": 67,
+      "name": "WB067",
+      "machineTypeId": 2
+    },
+    {
+      "id": 88,
+      "number": 68,
+      "name": "WB068",
+      "machineTypeId": 2
+    },
+    {
+      "id": 89,
+      "number": 69,
+      "name": "WB069",
+      "machineTypeId": 2
+    },
+    {
+      "id": 90,
+      "number": 70,
+      "name": "WB070",
+      "machineTypeId": 2
+    },
+    {
+      "id": 91,
+      "number": 71,
+      "name": "WB071",
+      "machineTypeId": 2
+    },
+    {
+      "id": 92,
+      "number": 72,
+      "name": "WB072",
+      "machineTypeId": 2
+    },
+    {
+      "id": 93,
+      "number": 73,
+      "name": "WB073",
+      "machineTypeId": 2
+    },
+    {
+      "id": 94,
+      "number": 74,
+      "name": "WB074",
+      "machineTypeId": 2
+    },
+    {
+      "id": 95,
+      "number": 75,
+      "name": "WB075",
+      "machineTypeId": 2
+    },
+    {
+      "id": 96,
+      "number": 76,
+      "name": "WB076",
+      "machineTypeId": 2
+    },
+    {
+      "id": 97,
+      "number": 77,
+      "name": "WB077",
+      "machineTypeId": 2
+    },
+    {
+      "id": 98,
+      "number": 78,
+      "name": "WB078",
+      "machineTypeId": 2
+    },
+    {
+      "id": 99,
+      "number": 79,
+      "name": "WB079",
+      "machineTypeId": 2
+    },
+    {
+      "id": 100,
+      "number": 80,
+      "name": "WB080",
+      "machineTypeId": 2
+    }
+  ],
+  "JobTypes": [
+    {
+      "name": "A",
+      "id": 1
+    },
+    {
+      "name": "B",
+      "id": 2
+    },
+    {
+      "name": "C",
+      "id": 3
+    },
+    {
+      "name": "D",
+      "id": 4
+    },
+    {
+      "name": "E",
+      "id": 5
+    },
+    {
+      "name": "F",
+      "id": 6
+    },
+    {
+      "name": "G",
+      "id": 7
+    },
+    {
+      "name": "H",
+      "id": 8
+    },
+    {
+      "name": "I",
+      "id": 9
+    },
+    {
+      "name": "J",
+      "id": 10
+    }
+  ],
+  "OperationTypes": [
+    {
+      "prevOperationTypeId": 0,
+      "nextOperationTypeId": 2,
+      "id": 1,
+      "name": "DA_A_1",
+      "jobTypeId": 1
+    },
+    {
+      "prevOperationTypeId": 1,
+      "nextOperationTypeId": 0,
+      "id": 2,
+      "name": "WB_A_1",
+      "jobTypeId": 1
+    },
+    {
+      "prevOperationTypeId": 0,
+      "nextOperationTypeId": 4,
+      "id": 3,
+      "name": "DA_B_1",
+      "jobTypeId": 2
+    },
+    {
+      "prevOperationTypeId": 3,
+      "nextOperationTypeId": 0,
+      "id": 4,
+      "name": "WB_B_1",
+      "jobTypeId": 2
+    },
+    {
+      "prevOperationTypeId": 0,
+      "nextOperationTypeId": 6,
+      "id": 5,
+      "name": "DA_C_1",
+      "jobTypeId": 3
+    },
+    {
+      "prevOperationTypeId": 5,
+      "nextOperationTypeId": 7,
+      "id": 6,
+      "name": "WB_C_1",
+      "jobTypeId": 3
+    },
+    {
+      "prevOperationTypeId": 6,
+      "nextOperationTypeId": 8,
+      "id": 7,
+      "name": "DA_C_2",
+      "jobTypeId": 3
+    },
+    {
+      "prevOperationTypeId": 7,
+      "nextOperationTypeId": 0,
+      "id": 8,
+      "name": "WB_C_2",
+      "jobTypeId": 3
+    },
+    {
+      "prevOperationTypeId": 0,
+      "nextOperationTypeId": 10,
+      "id": 9,
+      "name": "DA_D_1",
+      "jobTypeId": 4
+    },
+    {
+      "prevOperationTypeId": 9,
+      "nextOperationTypeId": 11,
+      "id": 10,
+      "name": "WB_D_1",
+      "jobTypeId": 4
+    },
+    {
+      "prevOperationTypeId": 10,
+      "nextOperationTypeId": 12,
+      "id": 11,
+      "name": "DA_D_2",
+      "jobTypeId": 4
+    },
+    {
+      "prevOperationTypeId": 11,
+      "nextOperationTypeId": 13,
+      "id": 12,
+      "name": "WB_D_2",
+      "jobTypeId": 4
+    },
+    {
+      "prevOperationTypeId": 12,
+      "nextOperationTypeId": 14,
+      "id": 13,
+      "name": "DA_D_3",
+      "jobTypeId": 4
+    },
+    {
+      "prevOperationTypeId": 13,
+      "nextOperationTypeId": 0,
+      "id": 14,
+      "name": "WB_D_3",
+      "jobTypeId": 4
+    },
+    {
+      "prevOperationTypeId": 0,
+      "nextOperationTypeId": 16,
+      "id": 15,
+      "name": "DA_E_1",
+      "jobTypeId": 5
+    },
+    {
+      "prevOperationTypeId": 15,
+      "nextOperationTypeId": 17,
+      "id": 16,
+      "name": "WB_E_1",
+      "jobTypeId": 5
+    },
+    {
+      "prevOperationTypeId": 16,
+      "nextOperationTypeId": 18,
+      "id": 17,
+      "name": "DA_E_2",
+      "jobTypeId": 5
+    },
+    {
+      "prevOperationTypeId": 17,
+      "nextOperationTypeId": 19,
+      "id": 18,
+      "name": "WB_E_2",
+      "jobTypeId": 5
+    },
+    {
+      "prevOperationTypeId": 18,
+      "nextOperationTypeId": 20,
+      "id": 19,
+      "name": "DA_E_3",
+      "jobTypeId": 5
+    },
+    {
+      "prevOperationTypeId": 19,
+      "nextOperationTypeId": 21,
+      "id": 20,
+      "name": "WB_E_3",
+      "jobTypeId": 5
+    },
+    {
+      "prevOperationTypeId": 20,
+      "nextOperationTypeId": 22,
+      "id": 21,
+      "name": "DA_E_4",
+      "jobTypeId": 5
+    },
+    {
+      "prevOperationTypeId": 21,
+      "nextOperationTypeId": 0,
+      "id": 22,
+      "name": "WB_E_4",
+      "jobTypeId": 5
+    },
+    {
+      "prevOperationTypeId": 0,
+      "nextOperationTypeId": 24,
+      "id": 23,
+      "name": "DA_F_1",
+      "jobTypeId": 6
+    },
+    {
+      "prevOperationTypeId": 23,
+      "nextOperationTypeId": 25,
+      "id": 24,
+      "name": "DA_F_2",
+      "jobTypeId": 6
+    },
+    {
+      "prevOperationTypeId": 24,
+      "nextOperationTypeId": 26,
+      "id": 25,
+      "name": "WB_F_2",
+      "jobTypeId": 6
+    },
+    {
+      "prevOperationTypeId": 25,
+      "nextOperationTypeId": 27,
+      "id": 26,
+      "name": "DA_F_3",
+      "jobTypeId": 6
+    },
+    {
+      "prevOperationTypeId": 26,
+      "nextOperationTypeId": 0,
+      "id": 27,
+      "name": "WB_F_3",
+      "jobTypeId": 6
+    },
+    {
+      "prevOperationTypeId": 0,
+      "nextOperationTypeId": 29,
+      "id": 28,
+      "name": "DA_G_1",
+      "jobTypeId": 7
+    },
+    {
+      "prevOperationTypeId": 28,
+      "nextOperationTypeId": 30,
+      "id": 29,
+      "name": "WB_G_1",
+      "jobTypeId": 7
+    },
+    {
+      "prevOperationTypeId": 29,
+      "nextOperationTypeId": 31,
+      "id": 30,
+      "name": "DA_G_2",
+      "jobTypeId": 7
+    },
+    {
+      "prevOperationTypeId": 30,
+      "nextOperationTypeId": 32,
+      "id": 31,
+      "name": "DA_G_3",
+      "jobTypeId": 7
+    },
+    {
+      "prevOperationTypeId": 31,
+      "nextOperationTypeId": 33,
+      "id": 32,
+      "name": "WB_G_3",
+      "jobTypeId": 7
+    },
+    {
+      "prevOperationTypeId": 32,
+      "nextOperationTypeId": 34,
+      "id": 33,
+      "name": "DA_G_4",
+      "jobTypeId": 7
+    },
+    {
+      "prevOperationTypeId": 33,
+      "nextOperationTypeId": 0,
+      "id": 34,
+      "name": "WB_G_4",
+      "jobTypeId": 7
+    },
+    {
+      "prevOperationTypeId": 0,
+      "nextOperationTypeId": 36,
+      "id": 35,
+      "name": "DA_H_1",
+      "jobTypeId": 8
+    },
+    {
+      "prevOperationTypeId": 35,
+      "nextOperationTypeId": 37,
+      "id": 36,
+      "name": "DA_H_2",
+      "jobTypeId": 8
+    },
+    {
+      "prevOperationTypeId": 36,
+      "nextOperationTypeId": 38,
+      "id": 37,
+      "name": "DA_H_3",
+      "jobTypeId": 8
+    },
+    {
+      "prevOperationTypeId": 37,
+      "nextOperationTypeId": 0,
+      "id": 38,
+      "name": "WB_H_3",
+      "jobTypeId": 8
+    },
+    {
+      "prevOperationTypeId": 0,
+      "nextOperationTypeId": 40,
+      "id": 39,
+      "name": "DA_I_1",
+      "jobTypeId": 9
+    },
+    {
+      "prevOperationTypeId": 39,
+      "nextOperationTypeId": 41,
+      "id": 40,
+      "name": "DA_I_2",
+      "jobTypeId": 9
+    },
+    {
+      "prevOperationTypeId": 40,
+      "nextOperationTypeId": 0,
+      "id": 41,
+      "name": "WB_I_2",
+      "jobTypeId": 9
+    },
+    {
+      "prevOperationTypeId": 0,
+      "nextOperationTypeId": 43,
+      "id": 42,
+      "name": "DA_J_1",
+      "jobTypeId": 10
+    },
+    {
+      "prevOperationTypeId": 42,
+      "nextOperationTypeId": 44,
+      "id": 43,
+      "name": "WB_J_1",
+      "jobTypeId": 10
+    },
+    {
+      "prevOperationTypeId": 43,
+      "nextOperationTypeId": 45,
+      "id": 44,
+      "name": "DA_J_2",
+      "jobTypeId": 10
+    },
+    {
+      "prevOperationTypeId": 44,
+      "nextOperationTypeId": 0,
+      "id": 45,
+      "name": "WB_J_2",
+      "jobTypeId": 10
+    }
+  ],
+  "MachineTypes": [
+    {
+      "name": "DA",
+      "id": 1
+    },
+    {
+      "name": "WB",
+      "id": 2
+    }
+  ],
+  "Name": "A Schedule",
+  "Operations": [
     {
       "operationTypeId": 16,
       "machineId": 81,
@@ -22000,977 +22972,6 @@
       "startAt": "2013-02-23 12:20:00",
       "endAt": "2013-02-23 15:30:00",
       "id": 3143
-    }
-  ],
-  "Machines": [
-    {
-      "id": 1,
-      "number": 1,
-      "name": "DA001",
-      "machineTypeId": 1
-    },
-    {
-      "id": 2,
-      "number": 2,
-      "name": "DA002",
-      "machineTypeId": 1
-    },
-    {
-      "id": 3,
-      "number": 3,
-      "name": "DA003",
-      "machineTypeId": 1
-    },
-    {
-      "id": 4,
-      "number": 4,
-      "name": "DA004",
-      "machineTypeId": 1
-    },
-    {
-      "id": 5,
-      "number": 5,
-      "name": "DA005",
-      "machineTypeId": 1
-    },
-    {
-      "id": 6,
-      "number": 6,
-      "name": "DA006",
-      "machineTypeId": 1
-    },
-    {
-      "id": 7,
-      "number": 7,
-      "name": "DA007",
-      "machineTypeId": 1
-    },
-    {
-      "id": 8,
-      "number": 8,
-      "name": "DA008",
-      "machineTypeId": 1
-    },
-    {
-      "id": 9,
-      "number": 9,
-      "name": "DA009",
-      "machineTypeId": 1
-    },
-    {
-      "id": 10,
-      "number": 10,
-      "name": "DA010",
-      "machineTypeId": 1
-    },
-    {
-      "id": 11,
-      "number": 11,
-      "name": "DA011",
-      "machineTypeId": 1
-    },
-    {
-      "id": 12,
-      "number": 12,
-      "name": "DA012",
-      "machineTypeId": 1
-    },
-    {
-      "id": 13,
-      "number": 13,
-      "name": "DA013",
-      "machineTypeId": 1
-    },
-    {
-      "id": 14,
-      "number": 14,
-      "name": "DA014",
-      "machineTypeId": 1
-    },
-    {
-      "id": 15,
-      "number": 15,
-      "name": "DA015",
-      "machineTypeId": 1
-    },
-    {
-      "id": 17,
-      "number": 17,
-      "name": "DA017",
-      "machineTypeId": 1
-    },
-    {
-      "id": 16,
-      "number": 16,
-      "name": "DA016",
-      "machineTypeId": 1
-    },
-    {
-      "id": 19,
-      "number": 19,
-      "name": "DA019",
-      "machineTypeId": 1
-    },
-    {
-      "id": 18,
-      "number": 18,
-      "name": "DA018",
-      "machineTypeId": 1
-    },
-    {
-      "id": 21,
-      "number": 1,
-      "name": "WB001",
-      "machineTypeId": 2
-    },
-    {
-      "id": 20,
-      "number": 20,
-      "name": "DA020",
-      "machineTypeId": 1
-    },
-    {
-      "id": 23,
-      "number": 3,
-      "name": "WB003",
-      "machineTypeId": 2
-    },
-    {
-      "id": 22,
-      "number": 2,
-      "name": "WB002",
-      "machineTypeId": 2
-    },
-    {
-      "id": 25,
-      "number": 5,
-      "name": "WB005",
-      "machineTypeId": 2
-    },
-    {
-      "id": 24,
-      "number": 4,
-      "name": "WB004",
-      "machineTypeId": 2
-    },
-    {
-      "id": 27,
-      "number": 7,
-      "name": "WB007",
-      "machineTypeId": 2
-    },
-    {
-      "id": 26,
-      "number": 6,
-      "name": "WB006",
-      "machineTypeId": 2
-    },
-    {
-      "id": 29,
-      "number": 9,
-      "name": "WB009",
-      "machineTypeId": 2
-    },
-    {
-      "id": 28,
-      "number": 8,
-      "name": "WB008",
-      "machineTypeId": 2
-    },
-    {
-      "id": 31,
-      "number": 11,
-      "name": "WB011",
-      "machineTypeId": 2
-    },
-    {
-      "id": 30,
-      "number": 10,
-      "name": "WB010",
-      "machineTypeId": 2
-    },
-    {
-      "id": 34,
-      "number": 14,
-      "name": "WB014",
-      "machineTypeId": 2
-    },
-    {
-      "id": 35,
-      "number": 15,
-      "name": "WB015",
-      "machineTypeId": 2
-    },
-    {
-      "id": 32,
-      "number": 12,
-      "name": "WB012",
-      "machineTypeId": 2
-    },
-    {
-      "id": 33,
-      "number": 13,
-      "name": "WB013",
-      "machineTypeId": 2
-    },
-    {
-      "id": 38,
-      "number": 18,
-      "name": "WB018",
-      "machineTypeId": 2
-    },
-    {
-      "id": 39,
-      "number": 19,
-      "name": "WB019",
-      "machineTypeId": 2
-    },
-    {
-      "id": 36,
-      "number": 16,
-      "name": "WB016",
-      "machineTypeId": 2
-    },
-    {
-      "id": 37,
-      "number": 17,
-      "name": "WB017",
-      "machineTypeId": 2
-    },
-    {
-      "id": 42,
-      "number": 22,
-      "name": "WB022",
-      "machineTypeId": 2
-    },
-    {
-      "id": 43,
-      "number": 23,
-      "name": "WB023",
-      "machineTypeId": 2
-    },
-    {
-      "id": 40,
-      "number": 20,
-      "name": "WB020",
-      "machineTypeId": 2
-    },
-    {
-      "id": 41,
-      "number": 21,
-      "name": "WB021",
-      "machineTypeId": 2
-    },
-    {
-      "id": 46,
-      "number": 26,
-      "name": "WB026",
-      "machineTypeId": 2
-    },
-    {
-      "id": 47,
-      "number": 27,
-      "name": "WB027",
-      "machineTypeId": 2
-    },
-    {
-      "id": 44,
-      "number": 24,
-      "name": "WB024",
-      "machineTypeId": 2
-    },
-    {
-      "id": 45,
-      "number": 25,
-      "name": "WB025",
-      "machineTypeId": 2
-    },
-    {
-      "id": 51,
-      "number": 31,
-      "name": "WB031",
-      "machineTypeId": 2
-    },
-    {
-      "id": 50,
-      "number": 30,
-      "name": "WB030",
-      "machineTypeId": 2
-    },
-    {
-      "id": 49,
-      "number": 29,
-      "name": "WB029",
-      "machineTypeId": 2
-    },
-    {
-      "id": 48,
-      "number": 28,
-      "name": "WB028",
-      "machineTypeId": 2
-    },
-    {
-      "id": 55,
-      "number": 35,
-      "name": "WB035",
-      "machineTypeId": 2
-    },
-    {
-      "id": 54,
-      "number": 34,
-      "name": "WB034",
-      "machineTypeId": 2
-    },
-    {
-      "id": 53,
-      "number": 33,
-      "name": "WB033",
-      "machineTypeId": 2
-    },
-    {
-      "id": 52,
-      "number": 32,
-      "name": "WB032",
-      "machineTypeId": 2
-    },
-    {
-      "id": 59,
-      "number": 39,
-      "name": "WB039",
-      "machineTypeId": 2
-    },
-    {
-      "id": 58,
-      "number": 38,
-      "name": "WB038",
-      "machineTypeId": 2
-    },
-    {
-      "id": 57,
-      "number": 37,
-      "name": "WB037",
-      "machineTypeId": 2
-    },
-    {
-      "id": 56,
-      "number": 36,
-      "name": "WB036",
-      "machineTypeId": 2
-    },
-    {
-      "id": 63,
-      "number": 43,
-      "name": "WB043",
-      "machineTypeId": 2
-    },
-    {
-      "id": 62,
-      "number": 42,
-      "name": "WB042",
-      "machineTypeId": 2
-    },
-    {
-      "id": 61,
-      "number": 41,
-      "name": "WB041",
-      "machineTypeId": 2
-    },
-    {
-      "id": 60,
-      "number": 40,
-      "name": "WB040",
-      "machineTypeId": 2
-    },
-    {
-      "id": 68,
-      "number": 48,
-      "name": "WB048",
-      "machineTypeId": 2
-    },
-    {
-      "id": 69,
-      "number": 49,
-      "name": "WB049",
-      "machineTypeId": 2
-    },
-    {
-      "id": 70,
-      "number": 50,
-      "name": "WB050",
-      "machineTypeId": 2
-    },
-    {
-      "id": 71,
-      "number": 51,
-      "name": "WB051",
-      "machineTypeId": 2
-    },
-    {
-      "id": 64,
-      "number": 44,
-      "name": "WB044",
-      "machineTypeId": 2
-    },
-    {
-      "id": 65,
-      "number": 45,
-      "name": "WB045",
-      "machineTypeId": 2
-    },
-    {
-      "id": 66,
-      "number": 46,
-      "name": "WB046",
-      "machineTypeId": 2
-    },
-    {
-      "id": 67,
-      "number": 47,
-      "name": "WB047",
-      "machineTypeId": 2
-    },
-    {
-      "id": 76,
-      "number": 56,
-      "name": "WB056",
-      "machineTypeId": 2
-    },
-    {
-      "id": 77,
-      "number": 57,
-      "name": "WB057",
-      "machineTypeId": 2
-    },
-    {
-      "id": 78,
-      "number": 58,
-      "name": "WB058",
-      "machineTypeId": 2
-    },
-    {
-      "id": 79,
-      "number": 59,
-      "name": "WB059",
-      "machineTypeId": 2
-    },
-    {
-      "id": 72,
-      "number": 52,
-      "name": "WB052",
-      "machineTypeId": 2
-    },
-    {
-      "id": 73,
-      "number": 53,
-      "name": "WB053",
-      "machineTypeId": 2
-    },
-    {
-      "id": 74,
-      "number": 54,
-      "name": "WB054",
-      "machineTypeId": 2
-    },
-    {
-      "id": 75,
-      "number": 55,
-      "name": "WB055",
-      "machineTypeId": 2
-    },
-    {
-      "id": 85,
-      "number": 65,
-      "name": "WB065",
-      "machineTypeId": 2
-    },
-    {
-      "id": 84,
-      "number": 64,
-      "name": "WB064",
-      "machineTypeId": 2
-    },
-    {
-      "id": 87,
-      "number": 67,
-      "name": "WB067",
-      "machineTypeId": 2
-    },
-    {
-      "id": 86,
-      "number": 66,
-      "name": "WB066",
-      "machineTypeId": 2
-    },
-    {
-      "id": 81,
-      "number": 61,
-      "name": "WB061",
-      "machineTypeId": 2
-    },
-    {
-      "id": 80,
-      "number": 60,
-      "name": "WB060",
-      "machineTypeId": 2
-    },
-    {
-      "id": 83,
-      "number": 63,
-      "name": "WB063",
-      "machineTypeId": 2
-    },
-    {
-      "id": 82,
-      "number": 62,
-      "name": "WB062",
-      "machineTypeId": 2
-    },
-    {
-      "id": 93,
-      "number": 73,
-      "name": "WB073",
-      "machineTypeId": 2
-    },
-    {
-      "id": 92,
-      "number": 72,
-      "name": "WB072",
-      "machineTypeId": 2
-    },
-    {
-      "id": 95,
-      "number": 75,
-      "name": "WB075",
-      "machineTypeId": 2
-    },
-    {
-      "id": 94,
-      "number": 74,
-      "name": "WB074",
-      "machineTypeId": 2
-    },
-    {
-      "id": 89,
-      "number": 69,
-      "name": "WB069",
-      "machineTypeId": 2
-    },
-    {
-      "id": 88,
-      "number": 68,
-      "name": "WB068",
-      "machineTypeId": 2
-    },
-    {
-      "id": 91,
-      "number": 71,
-      "name": "WB071",
-      "machineTypeId": 2
-    },
-    {
-      "id": 90,
-      "number": 70,
-      "name": "WB070",
-      "machineTypeId": 2
-    },
-    {
-      "id": 100,
-      "number": 80,
-      "name": "WB080",
-      "machineTypeId": 2
-    },
-    {
-      "id": 98,
-      "number": 78,
-      "name": "WB078",
-      "machineTypeId": 2
-    },
-    {
-      "id": 99,
-      "number": 79,
-      "name": "WB079",
-      "machineTypeId": 2
-    },
-    {
-      "id": 96,
-      "number": 76,
-      "name": "WB076",
-      "machineTypeId": 2
-    },
-    {
-      "id": 97,
-      "number": 77,
-      "name": "WB077",
-      "machineTypeId": 2
-    }
-  ],
-  "JobTypes": [
-    {
-      "name": "A",
-      "id": 1
-    },
-    {
-      "name": "B",
-      "id": 2
-    },
-    {
-      "name": "C",
-      "id": 3
-    },
-    {
-      "name": "D",
-      "id": 4
-    },
-    {
-      "name": "E",
-      "id": 5
-    },
-    {
-      "name": "F",
-      "id": 6
-    },
-    {
-      "name": "G",
-      "id": 7
-    },
-    {
-      "name": "H",
-      "id": 8
-    },
-    {
-      "name": "I",
-      "id": 9
-    },
-    {
-      "name": "J",
-      "id": 10
-    }
-  ],
-  "OperationTypes": [
-    {
-      "prevOperationTypeId": 0,
-      "nextOperationTypeId": 2,
-      "id": 1,
-      "name": "DA_A_1",
-      "jobTypeId": 1
-    },
-    {
-      "prevOperationTypeId": 1,
-      "nextOperationTypeId": 0,
-      "id": 2,
-      "name": "WB_A_1",
-      "jobTypeId": 1
-    },
-    {
-      "prevOperationTypeId": 0,
-      "nextOperationTypeId": 4,
-      "id": 3,
-      "name": "DA_B_1",
-      "jobTypeId": 2
-    },
-    {
-      "prevOperationTypeId": 3,
-      "nextOperationTypeId": 0,
-      "id": 4,
-      "name": "WB_B_1",
-      "jobTypeId": 2
-    },
-    {
-      "prevOperationTypeId": 0,
-      "nextOperationTypeId": 6,
-      "id": 5,
-      "name": "DA_C_1",
-      "jobTypeId": 3
-    },
-    {
-      "prevOperationTypeId": 5,
-      "nextOperationTypeId": 7,
-      "id": 6,
-      "name": "WB_C_1",
-      "jobTypeId": 3
-    },
-    {
-      "prevOperationTypeId": 6,
-      "nextOperationTypeId": 8,
-      "id": 7,
-      "name": "DA_C_2",
-      "jobTypeId": 3
-    },
-    {
-      "prevOperationTypeId": 7,
-      "nextOperationTypeId": 0,
-      "id": 8,
-      "name": "WB_C_2",
-      "jobTypeId": 3
-    },
-    {
-      "prevOperationTypeId": 0,
-      "nextOperationTypeId": 10,
-      "id": 9,
-      "name": "DA_D_1",
-      "jobTypeId": 4
-    },
-    {
-      "prevOperationTypeId": 9,
-      "nextOperationTypeId": 11,
-      "id": 10,
-      "name": "WB_D_1",
-      "jobTypeId": 4
-    },
-    {
-      "prevOperationTypeId": 10,
-      "nextOperationTypeId": 12,
-      "id": 11,
-      "name": "DA_D_2",
-      "jobTypeId": 4
-    },
-    {
-      "prevOperationTypeId": 11,
-      "nextOperationTypeId": 13,
-      "id": 12,
-      "name": "WB_D_2",
-      "jobTypeId": 4
-    },
-    {
-      "prevOperationTypeId": 12,
-      "nextOperationTypeId": 14,
-      "id": 13,
-      "name": "DA_D_3",
-      "jobTypeId": 4
-    },
-    {
-      "prevOperationTypeId": 13,
-      "nextOperationTypeId": 0,
-      "id": 14,
-      "name": "WB_D_3",
-      "jobTypeId": 4
-    },
-    {
-      "prevOperationTypeId": 0,
-      "nextOperationTypeId": 16,
-      "id": 15,
-      "name": "DA_E_1",
-      "jobTypeId": 5
-    },
-    {
-      "prevOperationTypeId": 16,
-      "nextOperationTypeId": 18,
-      "id": 17,
-      "name": "DA_E_2",
-      "jobTypeId": 5
-    },
-    {
-      "prevOperationTypeId": 15,
-      "nextOperationTypeId": 17,
-      "id": 16,
-      "name": "WB_E_1",
-      "jobTypeId": 5
-    },
-    {
-      "prevOperationTypeId": 18,
-      "nextOperationTypeId": 20,
-      "id": 19,
-      "name": "DA_E_3",
-      "jobTypeId": 5
-    },
-    {
-      "prevOperationTypeId": 17,
-      "nextOperationTypeId": 19,
-      "id": 18,
-      "name": "WB_E_2",
-      "jobTypeId": 5
-    },
-    {
-      "prevOperationTypeId": 20,
-      "nextOperationTypeId": 22,
-      "id": 21,
-      "name": "DA_E_4",
-      "jobTypeId": 5
-    },
-    {
-      "prevOperationTypeId": 19,
-      "nextOperationTypeId": 21,
-      "id": 20,
-      "name": "WB_E_3",
-      "jobTypeId": 5
-    },
-    {
-      "prevOperationTypeId": 0,
-      "nextOperationTypeId": 24,
-      "id": 23,
-      "name": "DA_F_1",
-      "jobTypeId": 6
-    },
-    {
-      "prevOperationTypeId": 21,
-      "nextOperationTypeId": 0,
-      "id": 22,
-      "name": "WB_E_4",
-      "jobTypeId": 5
-    },
-    {
-      "prevOperationTypeId": 24,
-      "nextOperationTypeId": 26,
-      "id": 25,
-      "name": "WB_F_2",
-      "jobTypeId": 6
-    },
-    {
-      "prevOperationTypeId": 23,
-      "nextOperationTypeId": 25,
-      "id": 24,
-      "name": "DA_F_2",
-      "jobTypeId": 6
-    },
-    {
-      "prevOperationTypeId": 26,
-      "nextOperationTypeId": 0,
-      "id": 27,
-      "name": "WB_F_3",
-      "jobTypeId": 6
-    },
-    {
-      "prevOperationTypeId": 25,
-      "nextOperationTypeId": 27,
-      "id": 26,
-      "name": "DA_F_3",
-      "jobTypeId": 6
-    },
-    {
-      "prevOperationTypeId": 28,
-      "nextOperationTypeId": 30,
-      "id": 29,
-      "name": "WB_G_1",
-      "jobTypeId": 7
-    },
-    {
-      "prevOperationTypeId": 0,
-      "nextOperationTypeId": 29,
-      "id": 28,
-      "name": "DA_G_1",
-      "jobTypeId": 7
-    },
-    {
-      "prevOperationTypeId": 30,
-      "nextOperationTypeId": 32,
-      "id": 31,
-      "name": "DA_G_3",
-      "jobTypeId": 7
-    },
-    {
-      "prevOperationTypeId": 29,
-      "nextOperationTypeId": 31,
-      "id": 30,
-      "name": "DA_G_2",
-      "jobTypeId": 7
-    },
-    {
-      "prevOperationTypeId": 33,
-      "nextOperationTypeId": 0,
-      "id": 34,
-      "name": "WB_G_4",
-      "jobTypeId": 7
-    },
-    {
-      "prevOperationTypeId": 0,
-      "nextOperationTypeId": 36,
-      "id": 35,
-      "name": "DA_H_1",
-      "jobTypeId": 8
-    },
-    {
-      "prevOperationTypeId": 31,
-      "nextOperationTypeId": 33,
-      "id": 32,
-      "name": "WB_G_3",
-      "jobTypeId": 7
-    },
-    {
-      "prevOperationTypeId": 32,
-      "nextOperationTypeId": 34,
-      "id": 33,
-      "name": "DA_G_4",
-      "jobTypeId": 7
-    },
-    {
-      "prevOperationTypeId": 37,
-      "nextOperationTypeId": 0,
-      "id": 38,
-      "name": "WB_H_3",
-      "jobTypeId": 8
-    },
-    {
-      "prevOperationTypeId": 0,
-      "nextOperationTypeId": 40,
-      "id": 39,
-      "name": "DA_I_1",
-      "jobTypeId": 9
-    },
-    {
-      "prevOperationTypeId": 35,
-      "nextOperationTypeId": 37,
-      "id": 36,
-      "name": "DA_H_2",
-      "jobTypeId": 8
-    },
-    {
-      "prevOperationTypeId": 36,
-      "nextOperationTypeId": 38,
-      "id": 37,
-      "name": "DA_H_3",
-      "jobTypeId": 8
-    },
-    {
-      "prevOperationTypeId": 0,
-      "nextOperationTypeId": 43,
-      "id": 42,
-      "name": "DA_J_1",
-      "jobTypeId": 10
-    },
-    {
-      "prevOperationTypeId": 42,
-      "nextOperationTypeId": 44,
-      "id": 43,
-      "name": "WB_J_1",
-      "jobTypeId": 10
-    },
-    {
-      "prevOperationTypeId": 39,
-      "nextOperationTypeId": 41,
-      "id": 40,
-      "name": "DA_I_2",
-      "jobTypeId": 9
-    },
-    {
-      "prevOperationTypeId": 40,
-      "nextOperationTypeId": 0,
-      "id": 41,
-      "name": "WB_I_2",
-      "jobTypeId": 9
-    },
-    {
-      "prevOperationTypeId": 43,
-      "nextOperationTypeId": 45,
-      "id": 44,
-      "name": "DA_J_2",
-      "jobTypeId": 10
-    },
-    {
-      "prevOperationTypeId": 44,
-      "nextOperationTypeId": 0,
-      "id": 45,
-      "name": "WB_J_2",
-      "jobTypeId": 10
-    }
-  ],
-  "MachineTypes": [
-    {
-      "name": "DA",
-      "id": 1
-    },
-    {
-      "name": "WB",
-      "id": 2
     }
   ]
 }

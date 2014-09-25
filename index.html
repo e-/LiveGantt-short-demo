@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>LiveGantt: Short Demo</title>
+<!--    <meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,300' rel='stylesheet' type='text/css'>
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="css/LiveGantt.css" rel="stylesheet" media="screen">
+    
+    <script data-main="js/index.js" src="js/require.js"></script>
+  </head>
+  <body>
+    <header class="box">
+      <h1>LiveGantt: Short Demo</h1>
+      <p>
+        This example demonstrates how resource reordering and aggregation of LiveGantt work. To focus on such features, all other features were removed. Source codes are available <a href="https://github.com/e-/LiveGantt-short-demo">here</a>. You can also read the original paper <a href="http://hcil.snu.ac.kr/research/livegantt">here</a>. Tested in Chrome 37.
+      </p>
+      <div>
+        <div class="btn-group">
+          <button type="button" class="btn btn-default sort-type" data-sort-type="1" data-mode="1">ID</button>
+          <button type="button" class="btn btn-default sort-type" data-sort-type="2" data-mode="1">StartAt</button>
+          <button type="button" class="btn btn-default sort-type" data-sort-type="3" data-mode="1">EndAt</button>
+        </div>
+        <button type="button" class="btn btn-default sort-type" data-sort-type="0" data-mode="2">Resource Reordering (drag the focus line)</button>
+        <button type="button" class="btn btn-default sort-type" data-sort-type="1" data-mode="3">Aggregation (drag the focus line)</button>
+      </div>
+    </header>
+    <svg class="box" id="svg"></svg>
+    <div class="popover top" id="popover">
+      <div class="arrow"></div>
+      <h3 class="popover-title"></h3>
+      <div class="popover-content"></div>
+    </div>
+  </body>
+</html>
